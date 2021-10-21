@@ -29,7 +29,8 @@ Whenever possible, I also apply my passion for developing products with Node.js 
                </div>
            </div>
            <div className="i-right">
-<img src={Me} alt="" className="i-img"/>
+               <div className="i-bg"></div>
+
            </div>
         </div>
     )
